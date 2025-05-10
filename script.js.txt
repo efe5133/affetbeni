@@ -1,0 +1,3 @@
+document.getElementById('affetBtn').addEventListener('click', () => {
+  alert('Teşekkür ederim! Bu benim için çok şey ifade ediyor.');
+});
